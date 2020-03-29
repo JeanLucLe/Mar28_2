@@ -10,6 +10,7 @@ public class Hello {
 			System.out.format("Hello, %!\n", name);
 			System.out.format("How are u doing today?");
 			System.out.format("How are u doing today,f?");
+			System.out.format("How are u doing today,ff?");
 	}
 
 }
