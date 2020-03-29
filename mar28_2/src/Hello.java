@@ -11,6 +11,7 @@ public class Hello {
 			System.out.format("How are u doing today?");
 			System.out.format("How are u doing today,f?");
 			System.out.format("How are u doing today,ff?");
+			System.out.format("How are u doing today,fff?");
 	}
 
 }
