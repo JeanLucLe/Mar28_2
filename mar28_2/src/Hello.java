@@ -9,7 +9,7 @@ public class Hello {
 		for (String name : names) {
 			System.out.format("Hello, %!\n", name);
 			System.out.format("How are u doing today?");
- 
+			System.out.format("How are u doing today,f?");
 	}
 
 }
